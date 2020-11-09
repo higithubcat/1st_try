@@ -15,7 +15,8 @@ This is our CAT team repository.😀
 
 + Jaieu
 
-+ [^~~Jerya~~]:He gets Cold recently!
++ [^~~Jerya~~]
+[^~~Jerya~~]:He gets Cold recently!
 
 **What are we doing ?**
 =======================
