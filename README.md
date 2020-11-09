@@ -15,9 +15,6 @@ This is our CAT team repository.😀
 
 + Jaieu
 
-+ [^~~Jerya~~]
-+ [^~~Jerya~~]: He gets Cold recently!
-
 **What are we doing ?**
 =======================
 Jobs used to say that
