@@ -1,7 +1,7 @@
 import random
  
 while True:
-    #生成随机数
+    #生成随机数，这是我做的修改~
     num = int(random.randint(1, 3))
     #赋字符串给生成的随机数
     if num == 1:
